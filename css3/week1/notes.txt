@@ -1,0 +1,2 @@
+Precedence: Latest overwrites previous
+Avoid override: !important :  color: blue !important;

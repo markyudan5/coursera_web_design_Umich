@@ -1,0 +1,14 @@
+h1{
+    color:rgb(120,0,100);
+}
+div{
+    border: 2px solid black;
+    height: 20%;
+    margin:10%;
+}
+.content1{
+    color:yellow;
+}
+.content2{
+    color:cyan;
+}

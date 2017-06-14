@@ -1,0 +1,2 @@
+link: State: a:hover after a:link
+list style: list-style-type, list-style-image

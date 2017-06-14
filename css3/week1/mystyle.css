@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-family: Courier, Impact, Arial;
+    font-style: italic;
+    font-variant:small-caps;
+    font-size:x-large;
+}
+h2, span{
+    color:#0000FF;
+    background-color:grey;
+}
+span, h1 {
+    text-align:right;
+    line-height:150%;
+}
