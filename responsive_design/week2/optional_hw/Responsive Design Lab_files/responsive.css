@@ -115,5 +115,8 @@ footer{
     body,header, footer{
         background-color:white;
     }
+    img{
+        display:none;
+    }
 }
 

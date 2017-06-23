@@ -1,0 +1,26 @@
+header:
+	title: ccav multi-zgaming clan
+	nav: ...
+
+body:
+	1. index:
+		about the clan
+			-background
+				-games
+			-photos
+	2. hall of fame:	
+		hall of fame(good players)
+			-player statics
+			-related videos
+	3. voice channel:
+		voice channel/contact info
+			-discord link
+			-teamspeak server
+				-voice channel rules
+			-qq group
+			-officers	
+	4. apply:	
+		apply to join
+			-form
+footer:			
+	copyright, author
