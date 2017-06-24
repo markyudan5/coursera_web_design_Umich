@@ -1,12 +1,12 @@
 /*style sheet 1*/
-img {
-	display: inline-block;
-	width:15%;
-}
+
 h1 {
 	text-align: center;
 }
-
+nav li{
+	display:inline-block;
+	margin:1% 6%;
+}
 #left {
 	float: left;
 	width: 75%;
@@ -17,6 +17,11 @@ h1 {
 	float: right;
 	width:20%;
 	display: inline-block;
+}
+
+img {
+	display: inline-block;
+	width:20%;
 }
 
 footer {
