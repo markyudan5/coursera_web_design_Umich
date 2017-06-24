@@ -1,13 +1,14 @@
 header:
-	title: ccav multi-zgaming clan
+	title: ccav multi-gaming clan
 	nav: ...
 
 body:
-	1. index:
+	1. home:
 		about the clan
 			-background
 				-games
 			-photos
+			-calendar
 	2. hall of fame:	
 		hall of fame(good players)
 			-player statics
@@ -19,7 +20,7 @@ body:
 				-voice channel rules
 			-qq group
 			-officers	
-	4. apply:	
+	4. join us:	
 		apply to join
 			-form
 footer:			
