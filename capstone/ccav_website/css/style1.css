@@ -1,0 +1,24 @@
+/*style sheet 1*/
+img {
+	display: inline-block;
+	width:15%;
+}
+h1 {
+	text-align: center;
+}
+
+#left {
+	float: left;
+	width: 75%;
+	display: inline-block;
+}
+
+#right {
+	float: right;
+	width:20%;
+	display: inline-block;
+}
+
+footer {
+	float: clear;
+}
