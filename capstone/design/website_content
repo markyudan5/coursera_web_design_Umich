@@ -28,10 +28,31 @@ body:
 					-teamspeak server link
 				-instructions
 		-download links
-		
+
 	5. join us:
 		apply to join
 			-form
+				-game
+					if sc2:
+						-id
+						-race
+						-league
+					if wot:
+						-id
+						-stats-wn8
+						-major: lights, meds, heavies...
+						-wotlab link
+						-available time
+						-voice chat availability
+					if ow:
+						-id
+						-major
+						-stat page
+						-rank
+					else
+						-id
+						-level
+
 footer:
 	copyright, author
 	contact info:
