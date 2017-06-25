@@ -5,25 +5,44 @@ h1 {
 }
 nav li{
 	display:inline-block;
-	margin:1% 6%;
+	margin:1% 3%;
 }
 #left {
 	float: left;
-	width: 75%;
+	width: 65%;
+	height: 50%;
 	display: inline-block;
+	border:1px solid yellow;
+}
+
+dfn {
+    font-style: normal;
 }
 
 #right {
-	float: right;
-	width:20%;
+	/*float: right;*/
+	width:30%;
 	display: inline-block;
+	border:1px solid yellow;
+	padding:2%;
+}
+.body{
+	border:1px solid black;
+	height:50%;
 }
 
 img {
 	display: inline-block;
-	width:20%;
+	width:80%;
+	border:1px solid red;
 }
 
-footer {
+footer{
 	float: clear;
+	width: 100%;
+	display:block;
 }
+/*indicate wireframe*/
+/** {
+	border: 1px solid black;
+}*/

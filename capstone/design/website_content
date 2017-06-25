@@ -8,19 +8,22 @@ body:
 			-background
 				-games
 			-photos
-			-calendar
-	2. hall of fame:	
+			
+	2. events：
+			-events calendar
+			-news
+	3. hall of fame:	
 		hall of fame(good players)
 			-player statics
 			-related videos
-	3. voice channel:
+	4. voice channel:
 		voice channel/contact info
 			-discord link
 			-teamspeak server
 				-voice channel rules
 			-qq group
 			-officers	
-	4. join us:	
+	5. join us:	
 		apply to join
 			-form
 footer:			
