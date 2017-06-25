@@ -21,8 +21,7 @@ body:
 			-player statics
 			-related videos
 	4. voice channel:
-		voice channel
-			-What's a voice channel
+		-What's a voice channel
 				-background
 					-discord server link
 					-teamspeak server link
@@ -30,7 +29,7 @@ body:
 		-download links
 
 	5. join us:
-		apply to join
+		-apply to join
 			-form
 				-game
 					if sc2:
