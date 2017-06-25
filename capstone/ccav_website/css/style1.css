@@ -24,14 +24,19 @@ dfn {
 	/*float: right;*/
 	width:30%;
 	display: inline-block;
-	border:1px solid yellow;
+	/*border:1px solid yellow;*/
 	padding:2%;
 }
 .body{
-	border:1px solid black;
+	/*border:1px solid black;*/
 	height:50%;
+	flex:1;
 }
-
+body{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
 img {
 	display: inline-block;
 	width:80%;
