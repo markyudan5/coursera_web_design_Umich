@@ -1,5 +1,12 @@
 /*style sheet 1*/
-
+*{
+	max-width:1000px;
+}
+html {
+	margin-left:auto;
+	margin-right: auto;
+	border:1px solid black;
+}
 h1 {
 	text-align: center;
 }
