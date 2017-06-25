@@ -6,25 +6,34 @@ body:
 	1. home:
 		about the clan
 			-background
-				-games
+				-history, games, status...
+				-clan page
+				-clan stats -wotlabs
 			-photos
-			
+
 	2. events：
 			-events calendar
+				-google calendar
 			-news
-	3. hall of fame:	
+				-clan news
+	3. hall of fame:
 		hall of fame(good players)
 			-player statics
 			-related videos
 	4. voice channel:
-		voice channel/contact info
-			-discord link
-			-teamspeak server
-				-voice channel rules
-			-qq group
-			-officers	
-	5. join us:	
+		voice channel
+			-What's a voice channel
+				-background
+					-discord server link
+					-teamspeak server link
+				-instructions
+
+			-download links
+	5. join us:
 		apply to join
 			-form
-footer:			
+footer:
 	copyright, author
+	contact info:
+		-qq group
+		-officers
