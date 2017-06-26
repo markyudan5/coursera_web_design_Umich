@@ -67,3 +67,7 @@ footer a{
 /** {
 	border: 1px solid black;
 }*/
+/*=========form content control===========*/
+.wot-choose{
+	display: none;
+}
