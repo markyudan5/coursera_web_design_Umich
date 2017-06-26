@@ -55,6 +55,11 @@ footer{
 	width: 100%;
 	display:block;
 }
+
+footer img{
+	display: block !important;
+	width: 10% !important;
+}
 /*indicate wireframe*/
 /** {
 	border: 1px solid black;
