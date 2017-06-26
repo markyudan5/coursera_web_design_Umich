@@ -31,7 +31,7 @@ dfn {
 	/*float: right;*/
 	/*width:35%;*/
 	display: inline-block;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	padding:2%;
 }
 .body{
@@ -55,11 +55,14 @@ footer{
 	width: 100%;
 	display:block;
 }
-
-footer img{
+footer a{
+	width: 15%;
+	display:block;
+}
+/*footer img{
 	display: block !important;
 	width: 10% !important;
-}
+}*/
 /*indicate wireframe*/
 /** {
 	border: 1px solid black;
