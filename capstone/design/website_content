@@ -32,25 +32,27 @@ body:
 		-apply to join
 			-form
 				-game
+				-id
+				-email
 					if sc2:
-						-id
 						-race
 						-league
 					if wot:
-						-id
 						-stats-wn8
 						-major: lights, meds, heavies...
 						-wotlab link
 						-available time
 						-voice chat availability
 					if ow:
-						-id
 						-major
 						-stat page
 						-rank
-					else
+					if hos:
 						-id
-						-level
+						-major
+						-league
+					else:
+						game:
 
 footer:
 	copyright, author
