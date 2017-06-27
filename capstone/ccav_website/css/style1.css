@@ -1,49 +1,50 @@
 /*style sheet 1*/
 *{
-	max-width:900px;
+	/*max-width:900px;*/
 }
 html {
 	margin-left:auto;
 	margin-right: auto;
-	border:1px solid black;
+	/*border:1px solid black;*/
 }
 h1 {
-	text-align: center;
+	/*text-align: center;*/
+	/*padding-left:0%;*/
 }
 /*nav li{
 	display:inline-block;
 	margin:1% 3%;
 }*/
 #left {
-	float: left;
+	/*float: left;*/
 	/*width: 65%;*/
 	/*height: 50%;*/
-	display: inline-block;
-	padding: 2%;
-	border:1px solid black;
+	/*display: inline-block;*/
+	/*padding: 2%;*/
+	/*border:1px solid black;*/
 }
 
 dfn {
-    font-style: normal;
+    /*font-style: normal;*/
 }
 
 #right {
 	/*float: right;*/
 	/*width:35%;*/
-	display: inline-block;
+	/*display: inline-block;*/
 	/*border:1px solid black;*/
-	padding:2%;
+	/*padding:2%;*/
 }
 .body{
 	/*border:1px solid black;*/
 	/*height:50%;*/
-	flex:1;
+	/*flex:1;*/
 }
-body{
+/*body{
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
-}
+}*/
 img {
 	display: inline-block;
 	width:80%;
