@@ -10,6 +10,15 @@ html {
 h1 {
 	/*text-align: center;*/
 	/*padding-left:0%;*/
+
+}
+#header{
+	display: inline-block;
+	width:375px;
+	margin-left:auto;
+}
+#subtitle {
+	text-align: right;
 }
 /*nav li{
 	display:inline-block;
