@@ -12,6 +12,9 @@ h1 {
 	/*padding-left:0%;*/
 
 }
+header {
+	background-image: url("../img/ccav_icon.png");
+}
 #header{
 	display: inline-block;
 	width:375px;
