@@ -27,9 +27,9 @@ function hideForms(x){
 var current = document.getElementsByClassName("wot-choose");;//remember current form for clearing
 function initForm(){
   current = document.getElementsByClassName("wot-choose");
-
   displayForms(current);
 }
+
 function switchForm(){
   var x = findGame();
 
@@ -37,18 +37,12 @@ function switchForm(){
     // console.log("World of Tanks");
     hideForms(current);
     current = document.getElementsByClassName("wot-choose");
-    // console.log("wot: current update");
-    // console.log(current);
-    // console.log("=====");
     displayForms(current);
   }
   else if(x == "sc2"){
     // console.log("Starcraft 2");
     hideForms(current);
     current = document.getElementsByClassName("sc2-choose");
-    // console.log("sc2: current update");
-    // console.log(current);
-    // console.log("=====");
     displayForms(current);
   }
   else if(x == "ow"){
