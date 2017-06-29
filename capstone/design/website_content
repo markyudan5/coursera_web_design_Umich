@@ -9,7 +9,7 @@ body:
 				-history, games, status...
 				-clan page
 				-clan stats -wotlabs
-			-photos
+			-photos-carousel
 
 	2. events：
 			-events calendar
@@ -20,6 +20,8 @@ body:
 		hall of fame(good players)
 			-player statics
 			-related videos
+			-live channel
+
 	4. voice channel:
 		-What's a voice channel
 				-background
@@ -54,7 +56,7 @@ body:
 					else:
 						game:
 		6. forum
-			
+
 
 footer:
 	copyright, author
