@@ -99,15 +99,27 @@ footer a{
 		display:none;
 	}
 
-  }
+}
 @media (min-width: 768px) {
+	/*283.33 350*/
+	#stream iframe{
+		width:283.33px;
+		height:220px;
+	}
 
-  }
+}
 @media (min-width: 992px) {
+	#stream iframe{
+		width:283.33px;
+		height:220px;
+	}
 
-
-  }
+}
 
 @media (min-width: 1200px) {
+	#stream iframe{
+		width:350px;
+		height:220px;
+	}
 
- }
+}
