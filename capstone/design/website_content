@@ -10,12 +10,15 @@ body:
 				-clan page
 				-clan stats -wotlabs
 			-photos-carousel
+			-player streaming(big screen view)/clan activities
+
 
 	2. events：
 			-events calendar
 				-google calendar
 			-news
 				-clan news
+
 	3. hall of fame:
 		hall of fame(good players)
 			-player statics
