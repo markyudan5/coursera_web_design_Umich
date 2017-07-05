@@ -102,6 +102,9 @@ footer a{
 }
 @media (min-width: 768px) {
 	/*283.33 350*/
+	#right_block {
+		height:187px;
+	}
 	#stream iframe{
 		width:283.33px;
 		height:220px;
