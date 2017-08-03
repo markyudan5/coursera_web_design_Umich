@@ -13,8 +13,11 @@ h1 {
 	/*padding-left:0%;*/
     font-family: 'Tangerine', cursive !important; 
     font-size: 58px !important;
-     text-shadow: 4px 4px 4px #aaa !important;
+    text-shadow: 4px 4px 4px #aaa !important;
+    margin-bottom: 1% !important;
+    padding-bottom: 1% !important;
 }
+
 h2 {
 	/*text-align: center;*/
 	/*padding-left:0%;*/
