@@ -20,7 +20,7 @@ h1 {
 h2 {
 	/*text-align: center;*/
 	/*padding-left:0%;*/
-    font-family: 'Julee', cursive !important; 
+    /*font-family: 'Julee', cursive !important; */
 }
 #header{
 	/*background-image: url("../img/ccav_icon.png");*/
@@ -65,16 +65,14 @@ dfn {
 	/*border:1px solid black;*/
 	/*padding:2%;*/
 }
-.body{
-	/*border:1px solid black;*/
-	/*height:50%;*/
-	/*flex:1;*/
-}
-/*body{
+.Site {
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
-}*/
+}
+.body{
+	flex:1
+}
 /*img {
 	display: inline-block;
 	width:80%;
@@ -89,6 +87,9 @@ footer{
 footer a{
 	width: 15%;
 	display:block;
+}
+.footer {
+ 
 }
 /*footer img{
 	display: block !important;
