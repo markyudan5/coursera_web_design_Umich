@@ -14,8 +14,7 @@ h1 {
     font-family: 'Tangerine', cursive !important; 
     font-size: 58px !important;
     text-shadow: 4px 4px 4px #aaa !important;
-    margin-bottom: 1% !important;
-    padding-bottom: 1% !important;
+    padding-bottom: 0% !important;
 }
 
 h2 {
@@ -23,7 +22,7 @@ h2 {
 	/*padding-left:0%;*/
     font-family: 'Julee', cursive !important; 
 }
-header {
+#header{
 	/*background-image: url("../img/ccav_icon.png");*/
 }
 #header{
@@ -33,6 +32,8 @@ header {
 }
 #subtitle {
 	text-align: right;
+    padding-top: -10px;
+    margin-top:-40px;
 }
 /*nav li{
 	display:inline-block;
