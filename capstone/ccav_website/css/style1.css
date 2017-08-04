@@ -17,10 +17,10 @@ h1 {
     padding-bottom: 0% !important;*/
 }
 
-h2 {
+.title {
 	/*text-align: center;*/
 	/*padding-left:0%;*/
-    /*font-family: 'Julee', cursive !important; */
+    font-family: 'Julee', cursive;
 }
 #header{
 	/*background-image: url("../img/ccav_icon.png");*/
